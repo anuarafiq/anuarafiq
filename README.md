@@ -6,7 +6,7 @@
 
 ---
 
-I'm a Computer Science student at UTP, spending most of my time on DSA, ML, and building things that (sometimes) work. I'm especially interested in how LLMs and AI agents can go beyond demos and actually solve real problems. Currently learning the fundamentals of AI/ML and figuring out what I want to build next.
+I'm a Computer Science student at UTP, spending most of my time on DSA, OOP, and building things that (sometimes) work. I'm especially interested in how LLMs and AI agents can go beyond demos and actually solve real problems. Currently learning the fundamentals of AI/ML and figuring out what I want to build next.
 
 📍 Putrajaya, Malaysia · ✉️ [anuarafiq2407@gmail.com](mailto:anuarafiq2407@gmail.com)
 
