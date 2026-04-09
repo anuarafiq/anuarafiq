@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science @ Universiti Teknologi PETRONAS
 ------------------------------------------------
 
-During the day I'm deep in Data Structures & Algorithms, Machine Learning, Software Engineering, and Database Systems. Outside of class I'm exploring how LLMs, AI agents, and automation pipelines can actually solve real-world problems, not just demo well.
+During the day I'm deep in Data Structures & Algorithms, Object-Oriented Programming, Software Engineering, and Database Systems. Outside of class I'm exploring how LLMs, AI agents, and automation pipelines can actually solve real-world problems, not just demo well.
 
 *   🌍  I'm based in Putrajaya, Malaysia
 *   ✉️  You can contact me at [anuarafiq2407@gmail.com](mailto:anuarafiq2407@gmail.com)
