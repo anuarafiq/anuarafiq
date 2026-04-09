@@ -6,7 +6,7 @@
 
 ---
 
-I'm a Computer Science student at UTP, spending most of my time on DSA, OOP, and building things that (sometimes) work. I'm especially interested in how LLMs and AI agents can go beyond demos and actually solve real problems. Currently learning the fundamentals of AI/ML and figuring out what I want to build next.
+I'm a Computer Science student at Universiti Teknologi PETRONAS, spending most of my time on DSA, OOP, and building things that (sometimes) work. I'm especially interested in how LLMs and AI agents can go beyond demos and actually solve real problems. Currently learning the fundamentals of AI/ML and figuring out what I want to build next.
 
 📍 Putrajaya, Malaysia · ✉️ [anuarafiq2407@gmail.com](mailto:anuarafiq2407@gmail.com)
 
@@ -26,10 +26,7 @@ I'm a Computer Science student at UTP, spending most of my time on DSA, OOP, and
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
 </p>
 
 ### 📚 Currently Learning
@@ -49,13 +46,6 @@ I'm a Computer Science student at UTP, spending most of my time on DSA, OOP, and
 ### 🌐 Socials
 
 <p align="left">
-<a href="https://www.github.com/anuarafiq" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-  </picture>
-</a>
 <a href="https://www.linkedin.com/in/anuar-afiq-arfahairy-234964314" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
