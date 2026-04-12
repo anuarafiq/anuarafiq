@@ -54,7 +54,7 @@ I'm a Computer Science student at Universiti Teknologi PETRONAS, spending most o
   </picture>
 </a>
 <a href="mailto:anuarafiq2407@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Email" title="anuarafiq2407@gmail.com" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" title="anuarafiq2407@gmail.com" />
 </a>
 </p>
 
