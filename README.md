@@ -53,6 +53,9 @@ I'm a Computer Science student at Universiti Teknologi PETRONAS, spending most o
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
   </picture>
 </a>
+<a href="mailto:anuarafiq2407@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Email" title="Email" />
+</a>
 </p>
 
 *Always open to a good conversation — feel free to reach out!*
