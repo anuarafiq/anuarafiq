@@ -53,6 +53,13 @@ I'm a Computer Science student at Universiti Teknologi PETRONAS, spending most o
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
   </picture>
 </a>
+<a href="https://anuarafiq.me" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="32" height="32" alt="Portfolio" title="anuarafiq.me" />
+  </picture>
+</a>
 <a href="mailto:anuarafiq2407@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" title="anuarafiq2407@gmail.com" />
 </a>
